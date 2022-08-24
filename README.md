@@ -28,3 +28,27 @@ At the end of a day, you will create an Android app which will look like this:
 This repository was created using [Cookiecutter](https://github.com/cookiecutter/cookiecutter) and the [tomtom-international/cookiecutter-android](https://github.com/tomtom-international/cookiecutter-android) project template.
 
 Special thanks to all [contributors](https://github.com/tomtom-international-labs/maps-sdk-android-display-a-map/blob/master/CONTRIBUTORS.md).
+
+<hr/>
+
+## TomTom Maps SDK for Android - Display a Map
+
+Step 1: [Get started](https://github.com/Zi-Tao/lab-maps-sdk-android-display-a-map/issues/1)
+
+Step 2: [Add TomTom Maven repository](https://github.com/Zi-Tao/lab-maps-sdk-android-display-a-map/pull/2)
+
+Step 3: [Add TomTom SDK dependencies](https://github.com/Zi-Tao/lab-maps-sdk-android-display-a-map/pull/2)
+
+Step 4: [Merge your first pull request](https://github.com/Zi-Tao/lab-maps-sdk-android-display-a-map/pull/2)
+
+Step 5: [Display a map - Add the map fragment to the layout](https://github.com/Zi-Tao/lab-maps-sdk-android-display-a-map/pull/3)
+
+Step 6: [Display a map - MainActivity - Add TomtomMap](https://github.com/Zi-Tao/lab-maps-sdk-android-display-a-map/pull/3)
+
+Step 7: [Display a map - MainActivity - Implement the OnMapReadyCallback](https://github.com/Zi-Tao/lab-maps-sdk-android-display-a-map/pull/3)
+
+Step 8: [Request and add the TomTom Maps API key to the project](https://github.com/Zi-Tao/lab-maps-sdk-android-display-a-map/pull/3)
+
+Step 9: [Install the app on your Android phone](https://github.com/Zi-Tao/lab-maps-sdk-android-display-a-map/pull/3)
+
+Step 10: [Merge the 'Display map' pull request](https://github.com/Zi-Tao/lab-maps-sdk-android-display-a-map/pull/3)
